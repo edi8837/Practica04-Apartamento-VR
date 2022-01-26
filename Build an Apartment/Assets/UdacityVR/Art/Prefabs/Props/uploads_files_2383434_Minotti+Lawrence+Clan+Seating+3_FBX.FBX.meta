@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 1617775cea962e44dab7a32a3ae55892
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 'back wall '
+    100002: bottle
+    100004: Box016
+    100006: Box614
+    100008: clan 6
+    100010: clan sofa
+    100012: clan sofa001
+    100014: clan sofa002
+    100016: Cylinder040
+    100018: Cylinder461
+    100020: Cylinder464
+    100022: Group006
+    100024: Group007
+    100026: Group008
+    100028: jacques sofa003
+    100030: Kay
+    100032: Kay 1
+    100034: LAWRENCE BED 223
+    100036: Lawrence Bed001
+    100038: Lawrence clan 004
+    100040: Lawrence clan 3
+    100042: LE KLINT 312-21
+    100044: LE KLINT 312-22
+    100046: Line008
+    100048: Line026
+    100050: Line029
+    100052: Object044
+    100054: Object051
+    100056: Object054
+    100058: Object055
+    100060: Object057
+    100062: Overby TRAY
+    100064: pillow
+    100066: pillow 3
+    100068: pillow002
+    100070: Plane001
+    100072: Plane001 1
+    100074: Rectangle001
+    100076: Shape017
+    100078: Shape018
+    100080: Shape064
+    100082: Shape066
+    100084: Shape069
+    100086: Shape070
+    100088: Shape074
+    100090: Shape076
+    100092: Shape077
+    100094: song
+    100096: Song coffee table
+    100098: Sphere010
+    100100: Theia Floor Lamp
+    100102: //RootNode
+    100104: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100106: "\xD7\xFE\xD7\xFC"
+    400000: 'back wall '
+    400002: bottle
+    400004: Box016
+    400006: Box614
+    400008: clan 6
+    400010: clan sofa
+    400012: clan sofa001
+    400014: clan sofa002
+    400016: Cylinder040
+    400018: Cylinder461
+    400020: Cylinder464
+    400022: Group006
+    400024: Group007
+    400026: Group008
+    400028: jacques sofa003
+    400030: Kay
+    400032: Kay 1
+    400034: LAWRENCE BED 223
+    400036: Lawrence Bed001
+    400038: Lawrence clan 004
+    400040: Lawrence clan 3
+    400042: LE KLINT 312-21
+    400044: LE KLINT 312-22
+    400046: Line008
+    400048: Line026
+    400050: Line029
+    400052: Object044
+    400054: Object051
+    400056: Object054
+    400058: Object055
+    400060: Object057
+    400062: Overby TRAY
+    400064: pillow
+    400066: pillow 3
+    400068: pillow002
+    400070: Plane001
+    400072: Plane001 1
+    400074: Rectangle001
+    400076: Shape017
+    400078: Shape018
+    400080: Shape064
+    400082: Shape066
+    400084: Shape069
+    400086: Shape070
+    400088: Shape074
+    400090: Shape076
+    400092: Shape077
+    400094: song
+    400096: Song coffee table
+    400098: Sphere010
+    400100: Theia Floor Lamp
+    400102: //RootNode
+    400104: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400106: "\xD7\xFE\xD7\xFC"
+    2100000: 06 - Default
+    2100002: Black Nickel glosyy
+    2100004: Chrome
+    2100006: books for all 2a
+    2100008: GlassClear
+    2100010: Mat marble white
+    2100012: Black Nickel Satin
+    2100014: mat 1
+    2100016: 18 - Default
+    2100018: books for all 2s
+    2100020: 02 - Default
+    2100022: Bronze(study)
+    2100024: Mat Poliform velvet textile 1
+    2100026: P_METALL_(Brass)
+    2100028: minotti wht
+    2100030: 'Material #38'
+    2100032: 'Material #2142148651'
+    2100034: glass 1
+    2100036: black
+    2100038: Black Leather
+    2100040: 15 - Default 2
+    2100042: cr 2
+    2100044: minotti lawrence 1 white
+    2100046: 'Material #2142148986'
+    2100048: brown dark leather s
+    2100050: 'Material #2146929179'
+    2100052: minotti lawrence 1 whiteg
+    2100054: 'Material #61df'
+    2100056: minotti lawrence 1
+    2100058: 'Material #2146929208'
+    2100060: 'Material #2146929167'
+    2100062: 'Material #2146929209'
+    2100064: Base
+    2100066: Interior_lamp
+    2100068: Glass
+    2100070: Black_plastic
+    2300000: 'back wall '
+    2300002: bottle
+    2300004: Box016
+    2300006: Box614
+    2300008: Cylinder040
+    2300010: Cylinder461
+    2300012: Cylinder464
+    2300014: Kay 1
+    2300016: LAWRENCE BED 223
+    2300018: LE KLINT 312-21
+    2300020: LE KLINT 312-22
+    2300022: Line008
+    2300024: Line026
+    2300026: Line029
+    2300028: Object044
+    2300030: Object051
+    2300032: Object054
+    2300034: Object055
+    2300036: Object057
+    2300038: Plane001
+    2300040: Plane001 1
+    2300042: Rectangle001
+    2300044: Shape017
+    2300046: Shape018
+    2300048: Shape064
+    2300050: Shape066
+    2300052: Shape070
+    2300054: Shape074
+    2300056: Shape076
+    2300058: Shape077
+    2300060: song
+    2300062: Song coffee table
+    2300064: Sphere010
+    2300066: Theia Floor Lamp
+    3300000: 'back wall '
+    3300002: bottle
+    3300004: Box016
+    3300006: Box614
+    3300008: Cylinder040
+    3300010: Cylinder461
+    3300012: Cylinder464
+    3300014: Kay 1
+    3300016: LAWRENCE BED 223
+    3300018: LE KLINT 312-21
+    3300020: LE KLINT 312-22
+    3300022: Line008
+    3300024: Line026
+    3300026: Line029
+    3300028: Object044
+    3300030: Object051
+    3300032: Object054
+    3300034: Object055
+    3300036: Object057
+    3300038: Plane001
+    3300040: Plane001 1
+    3300042: Rectangle001
+    3300044: Shape017
+    3300046: Shape018
+    3300048: Shape064
+    3300050: Shape066
+    3300052: Shape070
+    3300054: Shape074
+    3300056: Shape076
+    3300058: Shape077
+    3300060: song
+    3300062: Song coffee table
+    3300064: Sphere010
+    3300066: Theia Floor Lamp
+    4300000: Kay
+    4300002: Box614
+    4300004: Cylinder461
+    4300006: song
+    4300008: LE KLINT 312-22
+    4300010: LE KLINT 312-21
+    4300012: Object044
+    4300014: Plane001
+    4300016: Cylinder464
+    4300018: Cylinder040
+    4300020: LAWRENCE BED 223
+    4300022: bottle
+    4300024: Object051
+    4300026: Sphere010
+    4300028: Shape066
+    4300030: Rectangle001
+    4300032: Box016
+    4300034: Object055
+    4300036: Shape076
+    4300038: Line008
+    4300040: Shape064
+    4300042: Object054
+    4300044: Line029
+    4300046: Shape074
+    4300048: Shape077
+    4300050: Object057
+    4300052: Line026
+    4300054: Shape070
+    4300056: Shape017
+    4300058: Shape018
+    4300060: Plane001
+    4300062: Song coffee table
+    4300064: 'back wall '
+    4300066: Theia Floor Lamp
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
